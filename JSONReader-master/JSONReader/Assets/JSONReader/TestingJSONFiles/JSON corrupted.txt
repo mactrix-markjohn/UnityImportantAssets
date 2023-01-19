@@ -1,0 +1,1 @@
+{"data":[{"string":"ugly string","null":null,"null string":"null",number":123567,"number string":"123567","bool":true,"bool string":"true"}]}
